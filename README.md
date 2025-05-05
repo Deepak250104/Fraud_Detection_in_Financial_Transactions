@@ -1,9 +1,13 @@
 # 💳 Fraud Detection in Financial Transactions
 
 **Author:** Deepak250104
+
 **Dataset:** [Google Drive Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+
 **Model:** LightGBM (Gradient Boosted Trees)
+
 **Language:** Python 3.12.4
+
 **Frameworks:** scikit-learn, LightGBM, pandas, matplotlib, seaborn
 
 ---
